@@ -33,3 +33,10 @@ Install Socket.io with the following command:
    sockIO.on('connection', function(socket){
    console.log('A client connection occurred!');
    });
+   
+5. Now in layout.hbs add the following snippet before the </body>:
+
+   <script src="/socket.io/socket.io.js"></script>
+   <script>
+   var socket = io();
+   </script>
