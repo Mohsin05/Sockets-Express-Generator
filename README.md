@@ -34,7 +34,7 @@ Install Socket.io with the following command:
    console.log('A client connection occurred!');
    });
    
-5. Now in layout.hbs add the following snippet before the </body>:
+5. Now in layout.hbs add the following snippet before the body closing tag < /body >:
 
    <script src="/socket.io/socket.io.js"></script>
    <script>
