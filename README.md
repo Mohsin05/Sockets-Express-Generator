@@ -9,6 +9,8 @@ how to start the project.
 Sockets are implemented in the Chat page click on the button to go to chat page. 
 
 Here you go!
+Project is available at URL
+http://localhost:3000/
 
 
 
